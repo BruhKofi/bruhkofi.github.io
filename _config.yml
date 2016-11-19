@@ -3,7 +3,7 @@ name: Victor Asante-Kyei
 bio: techie, global citizen, diversity advocate
 
 # twitter summary info
-description: A blog about technology and stuff and pretty much anything I think of
+description: Victor's Official Website and Blog
 
 # if it's an external image, update below for true
 # better with square images
@@ -62,7 +62,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: large
+width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
