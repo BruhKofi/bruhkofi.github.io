@@ -3,7 +3,7 @@ name: Victor Asante-Kyei
 bio: techie, global citizen, diversity advocate
 
 # twitter summary info
-description: A blog about technology and stuff and pretty much anything I think of
+description: Victor's Official Website and Blog
 
 # if it's an external image, update below for true
 # better with square images
@@ -19,7 +19,7 @@ markdown: kramdown
 highlighter: rouge
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-86100270-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -62,7 +62,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: large
+width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
