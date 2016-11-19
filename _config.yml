@@ -1,16 +1,16 @@
 # main text of home
 name: Victor Asante-Kyei
-bio: A Man who travels the world eating noodles
+bio: techie, global citizen, diversity advocate
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about technology and stuff and pretty much anything I think of
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
 picture: assets/images/profile.jpg
 
-url: https://koppl.in/indigo
+url: http://Tynnee.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -29,29 +29,29 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: asantekyei
+twitter: Bruh_Kofi
 # google: mygoogle
-# instagram: myinstagram
+instagram: kofi_kyei
 # pinterest: mypinterest
 # linkedin: mylinkedin
-youtube: myyoutube
+#youtube: myyoutube
 spotify: myspotify
-github: mygithub
-stackoverflow: 7044681/mystackoverflow
-quora: userquora
-reddit: username
-medium: medium
-vimeo: myvimeo
-email: myemail@gmail.com
+github: Tynnee
+#stackoverflow: 7044681/mystackoverflow
+#quora: userquora
+#reddit: username
+#medium: medium
+#vimeo: myvimeo
+email: victorasantekyei@outlook.de
 
 authors:
     johndoe:
-        name: John Doe
+        name: Victor Asante-Kyei
         bio: A Man who travels the world eating noodles
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        twitter: Bruh_Kofi
     jamesfoster:
         name: James Foster
         bio: A Man who develops software with coffee
@@ -62,7 +62,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
@@ -72,7 +72,7 @@ width: normal
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: false
+about: true
 blog: true
 
 # do you want to show the "read time" of the posts?
