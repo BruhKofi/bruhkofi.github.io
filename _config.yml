@@ -26,7 +26,7 @@ analytics-google: 'UA-86100270-1'
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, set to false
-disqus: mydisqus
+disqus: Tynnee
 
 # if you don't have any of social below, comment the line
 facebook: asantekyei
@@ -36,7 +36,7 @@ instagram: kofi_kyei
 # pinterest: mypinterest
 # linkedin: mylinkedin
 #youtube: myyoutube
-spotify: myspotify
+spotify: 1287844315
 github: tynnee
 #stackoverflow: 7044681/mystackoverflow
 #quora: userquora
@@ -46,7 +46,7 @@ github: tynnee
 email: victorasantekyei@outlook.de
 
 authors:
-    johndoe:
+    kofi:
         name: Victor Asante-Kyei
         bio: A Man who travels the world eating noodles
         external-image: false
