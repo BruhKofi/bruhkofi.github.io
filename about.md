@@ -14,7 +14,7 @@ layout: page
 	<li>Responsive (Mobile First)</li>
 	<li>CSS (Stylus, Sass, Less)</li>
 	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
+	<li>Javascript (Design Patterns, Tests)</li>
 	<li>Git</li>
 </ul>
 <!--
