@@ -7,6 +7,7 @@ tag:
   - github
   - Web engineering
 blog: true
+comments: true
 author: kofi
 description: How to install Git bash-completion
 ---
