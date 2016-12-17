@@ -6,7 +6,8 @@ layout: page
 
 I am a web developer and IT consultant. My areas of interest among others include iOT, digital marketing and building the most user-friendly mobile and web apps. I am totally fascinated by startups!!! I pride myself on my ability to recognize and articulate a distinct voice for every project. I am driven by the in-depth problem solving that coding provides, new challenges, and the opportunity to continously learn from people.
 <div class="breaker"></div>
-Currently working as a Frontend Engineer at [HelloFresh](https://hellofresh.com){:target="_blank"}, helping demystify healthy eating. **Join the Revolution!** Use code **NLAJX7** for a **20€ discount** on your first box - **From Me to You** :)
+![HelloFresh](https://www.hellofresh.de/images/hellofresh-logo.svg?v=3){: height="90px" width="90px"}
+Currently working as a Frontend Engineer at [HelloFresh](https://hellofresh.com){:target="_blank"}, helping demystify healthy eating. **Join the Revolution!** Use code **NLAJX7** for a **20€ discount** on your first box - **From Me to You**
 <div class="breaker"></div>
 
 
