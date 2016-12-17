@@ -4,8 +4,11 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am a web developer and IT consultant. My areas of interest among others include iOT, digital marketing and building the most user-friendly mobile and web apps. I am totally fascinated by startups!!! I pride myself on my ability to recognize and articulate a distinct voice for every project. I am driven by the in-depth problem solving that coding provides, new challenges, and the opportunity to continously learn from people.</p>
+I am a web developer and IT consultant. My areas of interest among others include iOT, digital marketing and building the most user-friendly mobile and web apps. I am totally fascinated by startups!!! I pride myself on my ability to recognize and articulate a distinct voice for every project. I am driven by the in-depth problem solving that coding provides, new challenges, and the opportunity to continously learn from people.
 <div class="breaker"></div>
+Currently working as a Frontend Engineer at [HelloFresh](https://hellofresh.com){:target="_blank"}, helping demystify healthy eating. **Join the Revolution!** Use code **NLAJX7** for a **20€ discount** on your first box - **From Me to You** :)
+<div class="breaker"></div>
+
 
 <h2>Skills</h2>
 
@@ -14,8 +17,8 @@ layout: page
 	<li>Responsive (Mobile First)</li>
 	<li>CSS (Stylus, Sass, Less)</li>
 	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Tests)</li>
-	<li>Git</li>
+	<li>Javascript (React)</li>
+	<li>Ruby on Rails</li>
 </ul>
 <!--
 <h2>Projects</h2>
