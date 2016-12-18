@@ -16,7 +16,7 @@ Currently working as a Frontend Engineer at [HelloFresh](https://hellofresh.com)
 <ul class="skill-list">
 	<li>HTML - Jade - Haml - Erb</li>
 	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
+	<li>CSS (Sass, Less)</li>
 	<li>Css Frameworks (Bootstrap, Foundation)</li>
 	<li>Javascript (React)</li>
 	<li>Ruby on Rails</li>
