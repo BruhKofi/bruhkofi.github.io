@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Become a Web Developer From Scratch - Learn Programming"
+title: "How to Become a Web Developer From Scratch"
 date: "2016-12-19 07:30:44 +0100"
 blog: true
 comments: true
