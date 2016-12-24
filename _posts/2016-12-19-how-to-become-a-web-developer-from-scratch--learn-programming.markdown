@@ -14,7 +14,7 @@ tag:
 description: How to become a Web Developer, Learning to write code, where to start.
 
 ---
-Learning to code is one of the most exciting things to decide to do if you start off on the right foot. It can be sometimes be unnerving as there are way to many suggestions out there on the internet when you google "how to become a become a developer". That was one of my dilemmas; not knowing where to start. This is how I did it. It is not the one path everyone has to follow to get become a software engineer but should have some useful pointers for the absolute beginner and get started writing code in no time.
+Learning to code is one of the most exciting things to decide to do if you start off on the right foot. It can be sometimes be unnerving as there are way to many suggestions out there on the internet when you google "how to become a developer". That was one of my dilemmas; not knowing where to start. This is how I did it. It is not the one path everyone has to follow to get become a software engineer but should have some useful pointers for the absolute beginner and get started writing code in no time.
 <blockquote> The best jobs are those that you would do and not feel like you are working.</blockquote>
 
 ![Markdowm Image](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
