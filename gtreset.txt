@@ -1,0 +1,500 @@
+   41  rake db:create
+   42  rake db:create --trace
+   43  rake gems:install db:create db:schema:load db:migrate
+   44  bundle install
+   45  cd ..
+   46  ls
+   47  cd job_
+   48  cd job_board/
+   49  make gems
+   50  cd ..
+   51  ls
+   52  cd Jekyll/
+   53  ls
+   54  cd CVNBlog/
+   55  ls
+   56  npm run serve
+   57  npm run serve
+   58  npm run serve
+   59  cd ..
+   60  cd ..
+   61  cd Rails/
+   62  ls
+   63  cd Joobsbox-Rails/
+   64  ls
+   65  bundle install
+   66  cd ..
+   67  ls
+   68  cd remote-job/
+   69  rake db:migrate
+   70  bundle install
+   71  cd Do
+   72  cd Documents/
+   73  cd MeinJS/
+   74  ls
+   75  cd AngJobs/
+   76  ls
+   77  cd ..
+   78  cd ..
+   79  cd Rails/
+   80  ls
+   81  cd ajob_board_rails/
+   82  bundle install
+   83  rails s
+   84  rake db:migrate
+   85  rails s
+   86  cd ,,
+   87  cd ..
+   88  cd ..
+   89  cd MeinJS/
+   90  ls
+   91  cd remotework/
+   92  ls
+   93  meteor update
+   94  cd
+   95  curl https://install.meteor.com/ | sh
+   96  cd remotework/
+   97  cd Documents/
+   98  cd remotework/
+   99  meteor update
+  100  meteor --settings settings.json
+  101  meteor --settings settings.json
+  102  meteor npm install --save babel-runtime
+  103  cd
+  104  meteor npm install --save babel-runtime
+  105  cd Documents/
+  106  cd MeinJS/
+  107  cd AirBnb/
+  108  npm install
+  109  npm WARN react-redux@4.4.0 requires a peer of react@^0.14.0 but none was installed.react-native run-ios --simulator="iPhone 4s"
+  110  react-native run-ios --simulator="iPhone 4s"
+  111  npm install --save react react-dom
+  112  cd ..
+  113  cd ..
+  114  cd emails/
+  115  ls
+  116  ./middleman.sh weekly
+  117  cd Documents/
+  118  cd emails/
+  119  ls
+  120  ./middleman.sh weekly
+  121  make install
+  122  make server
+  123  cd ..
+  124  ls
+  125  cd mjobs_board/
+  126  bundle install
+  127  cd ..
+  128  cd ..
+  129  ls
+  130  cd MeinJS/
+  131  ls
+  132  cd hire-remotely/
+  133  npm install
+  134  sails lift
+  135  npm run serve
+  136  sails lift
+  137  sails lift
+  138  pwd
+  139  pwd
+  140  cd ..
+  141  cd ..
+  142  ls
+  143  cd ..
+  144  ls
+  145  cd Documents/
+  146  ls
+  147  ls
+  148  cd emails/
+  149  ls
+  150  ./middleman.sh weekly
+  151  ./middleman.sh
+  152  ./middleman.sh weekly
+  153  ./middleman.sh weekly
+  154  ./middleman.sh weekly build
+  155  ./mandrill.sh --action up --countries de --templates leads-variety-2
+  156  ./mandrill-sync.sh --action up --countries de --templates leads-variety-2
+  157  ./middleman.sh weekly build
+  158  ./mandrill-sync.sh --action up --countries de --templates leads-variety-2
+  159  ./middleman.sh weekly build
+  160  ./mandrill-sync.sh --action up --countries de --templates leads-variety-2
+  161  ./middleman.sh weekly build
+  162  ./mandrill-sync.sh --action up --countries de --templates leads-variety-2
+  163  git fetch origin
+  164  git checkout -b CRM-1093-de-createLeadsVariety1Template origin/CRM-1093-de-createLeadsVariety1Template
+  165  git fetch origin
+  166  git checkout -b CRM-1093-de-createLeadsVariety1Template origin/CRM-1093-de-createLeadsVariety1Template
+  167  git merge master
+  168  git checkout master
+  169  git merge --no-ff CRM-1093-de-createLeadsVariety1Template
+  170  git fetch origin
+  171  git checkout -b CRM-1093-de-createLeadsVariety1Template origin/CRM-1093-de-createLeadsVariety1Template
+  172  git merge master
+  173  git checkout master
+  174  git merge --no-ff CRM-1093-de-createLeadsVariety1Template
+  175  cd DOc
+  176  cd Documents/
+  177  ls
+  178  cd emails/
+  179  ls
+  180  ls
+  181  ./middleman.sh weekly
+  182  ./middleman.sh weekly
+  183  ./middleman.sh weekly
+  184  ./middleman.sh weekly
+  185  ./middleman.sh
+  186  ./middleman.sh weekly
+  187  ./middleman.sh
+  188  ./middleman.sh
+  189  ./middleman.sh weekly
+  190  git branch
+  191  git fetch origin
+  192  git checkout master
+  193  git fetch origin
+  194  git checkout -b CRM-1093-de-createLeadsVariety1Template origin
+  195  git checkout -b CRM-1093-de-createLeadsVariety1Template 
+  196  git checkout CRM-1093-de-createLeadsVariety1Template 
+  197  merge master
+  198  git merge master
+  199  git branch
+  200  git pull origin mys
+  201  git pull origin master
+  202  git status
+  203  git diff middleman/weekly/locales/de.yml
+  204  git st
+  205  git status
+  206  history
+  207  cd ..
+  208  history
+  209  history > hist.txt
+  210  history > mergeconfl.txt
+  211  git checkout master
+  212  cd emails/
+  213  ls
+  214  git checkout master 
+  215  git pull origin master
+  216  ./middleman.sh weekly build
+  217  ./middleman.sh weekly build
+  218  ./mandrill-sync.sh --action up --countries de --templates leads-variety-3
+  219  git branch -d CRM-1096-create-leads-variety-4-template
+  220  git add .
+  221  git commit -m "initial draft"
+  222  git push
+  223  ./middleman.sh weekly build
+  224  ./mandrill-sync.sh --action up --countries de --templates leads-variety-4
+  225  git pull origin master
+  226  ./middleman.sh weekly build
+  227  ./mandrill-sync.sh --action up --countries de --templates leads-variety-4
+  228  ./middleman.sh build
+  229  ./mandrill-sync.sh --action up --countries au --templates newslettersignup-30-notification
+  230  git diff
+  231  git diff CRM-987-au-createNewsletterSignup30Notification 
+  232  git diff middleman/default/source/localizable/newsletter-30-notification.au.haml
+  233  git diff middleman/default/source/localizable/newslettersignup-30-notification.au.haml
+  234  git status
+  235  ./middleman.sh weekly build
+  236  ./mandrill-sync.sh --action up --countries de --templates leads-variety-4
+  237  ./middleman.sh weekly build
+  238  ./middleman.sh weekly build
+  239  ./mandrill-sync.sh --action up --countries gb --templates christmas-service-reminder
+  240  ./middleman.sh weekly build
+  241  ./mandrill-sync.sh --action up --countries gb --templates christmas-service-reminder
+  242  /Users/victorasante-kyei/Documents/MeinJS/AirBnb/node_modules/react-native/packager/launchPackager.command ; exit;
+  243  git status
+  244  cd Documents/
+  245  cd emails/
+  246  ls
+  247  git branch
+  248  git status
+  249  git checkout master
+  250  git status
+  251  git pull
+  252  git status
+  253  git checkout CRM-1093-de-createLeadsVariety1Template 
+  254  git status
+  255  git mergetool
+  256  atom .
+  257  ls
+  258  cd ..
+  259  ls
+  260  ls
+  261  cd Rails/
+  262  ö
+  263  ls
+  264  cd remote-job/
+  265  ls
+  266  rails s
+  267  cd ..
+  268  ls
+  269  cd studitemps.github.io/
+  270  ls
+  271  bundle install
+  272  rails s
+  273  ls
+  274  cd ..
+  275  ls
+  276  cd ..
+  277  ls
+  278  cd EnvoDrive/
+  279  ls
+  280  cd ..
+  281  cd MeinJS/
+  282  ls
+  283  cd jobpig/
+  284  l
+  285  ls
+  286  cd
+  287  docker --version
+  288  docker-compose --version
+  289  docker-machine --version
+  290  docker run -d -p 80:80 --name webserver nginx
+  291  docker ps
+  292  docker stop webserver
+  293  docker start webserver
+  294  docker ps -a
+  295  docker rm -f webserver
+  296  brew install bash-completion
+  297  brew tap homebrew/completions
+  298  nano .bash_profile
+  299  source .bash_profile
+  300  cd Documents/
+  301  ls
+  302  cd MeinJS/
+  303  ls
+  304  cd hasjob/
+  305  docker-compose build
+  306  web$ python manage.py db create
+  307  docker-compose run web sh
+  308  docker-compose up
+  309  docker-compose run web sh
+  310  docker-compose up
+  311  brew install node
+  312  brew install watchman
+  313  npm install -g react-native-cli
+  314  git pull
+  315  git pull
+  316  ./middleman.sh build
+  317  cd ..
+  318  cd ..
+  319  cd ..
+  320  ./middleman.sh build
+  321  ./mandrill.sh -sync --help
+  322  ./mandrill-sync.sh --help
+  323  ./mandrill-sync.sh --actions up --countries au --templates newslettersignup-2x15-notification
+  324  ./mandrill-sync.sh --action up --countries au --templates newslettersignup-2x15-notification
+  325  git checkout CRM-987-au-createNewsletterSignup30Notification 
+  326  ./middleman.sh build
+  327  ./mandrill-sync.sh --action up --countries au --templates newslettersignup-2x15-reminder
+  328  git diff
+  329  ./middleman.sh build
+  330  ./mandrill-sync.sh --action up --countries au --templates newslettersignup-2x15-reminder
+  331  ./middleman.sh build
+  332  ./mandrill-sync.sh --action up --countries au --templates newslettersignup-30-notification
+  333  ./middleman.sh build
+  334  ./mandrill-sync.sh --action up --countries be --templates nps-initial
+  335  ./mandrill-sync.sh --action up --countries be --templates nps-recurring
+  336  ./middleman.sh weekly build
+  337  ./mandrill-sync.sh --action up --countries be --templates leads-variety-3
+  338  ./mandrill-sync.sh --action up --countries de --templates leads-variety-3
+  339  ./middleman.sh weekly build
+  340  git status
+  341  ./middleman.sh weekly build
+  342  ./mandrill-sync.sh --action up --countries de --templates leads-variety-4
+  343  ./middleman.sh weekly build
+  344  ./middleman.sh weekly build
+  345  ./mandrill-sync.sh --action up --countries de --templates leads-variety-4
+  346  ./middleman.sh weekly build
+  347  ./mandrill-sync.sh --action up --countries de --templates leads-variety-4
+  348  ./middleman.sh weekly build
+  349  ./mandrill-sync.sh --action up --countries de --templates leads-variety-4
+  350  ./middleman.sh weekly build
+  351  ./mandrill-sync.sh --action up --countries de --templates leads-variety-4
+  352  ./middleman.sh weekly build
+  353  ./mandrill-sync.sh --action up --countries de --templates leads-variety-4
+  354  ./mandrill-sync.sh --action up --countries de --templates leads-variety-4
+  355  ./middleman.sh weekly build
+  356  ./middleman.sh weekly build
+  357  ./mandrill-sync.sh --action up --countries de --templates leads-variety-4
+  358  ./middleman.sh weekly build
+  359  ./mandrill-sync.sh --action up --countries de --templates leads-variety-4
+  360  ./middleman.sh weekly build
+  361  ./middleman.sh weekly build
+  362  ./mandrill-sync.sh --action up --countries de --templates leads-variety-4
+  363  ./middleman.sh weekly build
+  364  ./mandrill-sync.sh --action up --countries de --templates leads-variety-4
+  365  ./middleman.sh weekly build
+  366  ./mandrill-sync.sh --action up --countries de --templates leads-variety-4
+  367  ./middleman.sh weekly build
+  368  ./middleman.sh weekly build
+  369  ./mandrill-sync.sh --action up --countries de --templates leads-variety-4
+  370  ./mandrill-sync.sh --action up --countries au --templates newslettersignup-2x15-notification
+  371  cd ..
+  372  cd ..
+  373  cd ..
+  374  ./mandrill-sync.sh --action up --countries au --templates newslettersignup-2x15-notification
+  375  git pull
+  376  git checkout CRM-987-au-createNewsletterSignup30Notification 
+  377  git checkout CRM-985-au-createNewsletterSignUp2x15Notification 
+  378  ./middleman.sh
+  379  ./middleman.sh weekly
+  380  cd Documents/
+  381  ls
+  382  cd emails/
+  383  ./middleman.sh weekly
+  384  ./middleman.sh weekly
+  385  ./middleman.sh weekly
+  386  ./middleman.sh weekly
+  387  ./middleman.sh
+  388  ./middleman.sh weekly
+  389  ./middleman.sh weekly
+  390  ./middleman.sh weekly
+  391  ./middleman.sh weekly
+  392  ./middleman.sh weekly
+  393  ./middleman.sh weekly
+  394  git branch
+  395  git checkout CRM-986-au-createNewslettersignup-2x15-reminder 
+  396  git checkout CRM-1071-updateBannerImmageForNPSInitialandRecurring 
+  397  git branch
+  398  git checkout master 
+  399  git pull
+  400  git checkout CRM-985-au-createNewsletterSignUp2x15Notification 
+  401  git merge master
+  402  git merge master
+  403  git merge master
+  404  git status
+  405  git reset --HARD origin/CRM-985-au-createNewsletterSignUp2x15Notification 
+  406  git reset --hard origin/CRM-985-au-createNewsletterSignUp2x15Notification 
+  407  git merge master
+  408  git status
+  409  git merge master
+  410  git commit -m "android"
+  411  git push
+  412  ./middleman.sh weekly build
+  413  ./mandrill-sync.sh --action up --countries au --templates newslettersignup-2x15-notification
+  414  git pull
+  415  ./middleman.sh weekly
+  416  ./middleman.sh weekly
+  417  git status
+  418  git pull
+  419  git branch
+  420  git pull
+  421  git merge
+  422  git merge master
+  423  cd Documents/
+  424  ls
+  425  cd emails/
+  426  ls
+  427  git branch 
+  428  git pull
+  429  git status
+  430  git add .
+  431  git commit -m "msc"
+  432  git push
+  433  git fetch
+  434  git status
+  435  git pull
+  436  ./middleman.sh
+  437  cd Documents/
+  438  ls
+  439  cd emails/
+  440  ls
+  441  ./middleman.sh
+  442  ./middleman.sh weekly
+  443  ./middleman.sh
+  444  ./middleman.sh
+  445  ./middleman.sh
+  446  ./middleman.sh weekly
+  447  ./middleman.sh
+  448  ./middleman.sh
+  449  ./middleman.sh
+  450  ./middleman.sh
+  451  ./middleman.sh
+  452  git add .
+  453  git commit -m "identical metadesc"
+  454  git push -u origin master
+  455  git diff
+  456  git status
+  457  ./middleman.sh weekly build
+  458  ./mandrill.sync.sh --action up --countries de --templates leads-variety-4
+  459  ./mandrill-sync.sh --action up --countries de --templates leads-variety-4
+  460  ./middleman.sh build
+  461  ./mandrill-sync.sh --action up --countries au --templates newslettersignup-30-notification
+  462  git checkout 
+  463  git reset --hard origin/CRM-986-au-createNewslettersignup-2x15-reminder 
+  464  git pull
+  465  git merge master
+  466  git merge master
+  467  git merge master
+  468  git merge master
+  469  git status
+  470  ./middleman.sh build
+  471  ./mandrill-sync.sh --action up --countries au --templates newslettersignup-2x15-reminder
+  472  git checkout CRM-985-au-createNewsletterSignUp2x15Notification 
+  473  ./middleman.sh build
+  474  ./mandrill-sync.sh --action up --countries au --templates newslettersignup-2x15-notification
+  475  git merge master
+  476  ./middleman.sh build
+  477  ./mandrill-sync.sh --action up --countries au --templates newslettersignup-30-notification
+  478  ./middleman.sh build
+  479  ./mandrill-sync.sh --action up --countries au --templates newslettersignup-2x15-notification
+  480  ./middleman.sh build
+  481  ./mandrill-sync.sh --action up --countries de --templates christmas-donation-thankyou
+  482  cd ..
+  483  cd Jekyll/
+  484  cd CVNBlog/
+  485  ls
+  486  git status
+  487  git add .
+  488  git commit -m "edit robottxt"
+  489  git push -u origin master
+  490  npm start
+  491  npm run serve
+  492  npm run serve
+  493  npm run serve
+  494  npm run serve
+  495  cd 
+  496  xcode-select --install
+  497  jekyll -v
+  498  . ls
+  499  cd Documents/
+  500  cd Jekyll/
+  501  cd CVNBlog/
+  502  git checkout 41dfd09ac89f72a5ac390b571c95ebd62ecbdc0f
+  503  git add .
+  504  git commit -m "remove idea"
+  505  git push -u origin master
+  506  git add .
+  507  git commit -m "seo-jekyl"
+  508  git push -u origin master
+  509  git add .
+  510  git commit -m "error fix"
+  511  git push -u origin master
+  512  git reset 5de6391
+  513  git status
+  514  git add .
+  515  git commit -m "revert to previous commit"
+  516  git push -u origin master
+  517  git reset 5de6391
+  518  git reset --soft HEAD@{1}
+  519  git commit -m "revert to previous commit1"
+  520  git reset --hard
+  521  git status
+  522  git push -u origin master
+  523  git pull
+  524  git push -u origin master
+  525  git revert --no-commit 5de6391..HEAD
+  526  git reset --hard 5de6391 && git clean -f
+  527  git status
+  528  git add .
+  529  git commit -m "2nd try"
+  530  git pull
+  531  git reset --hard 5de6391 && git clean -f
+  532  git push -u origin master
+  533  git pull
+  534  git push -u origin master
+  535  git reset --hard 5de63910688c275009b04f370c4d654b8bfb628d
+  536  git push -u origin master
+  537  git push -f 
+  538  git reset --hard 038f726bbb8a6a5e579fbfd0e99af9e728d2ac5a
+  539  git push -f 
+  540  history > gtreset.txt
