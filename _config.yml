@@ -13,6 +13,11 @@ url: https://vasnte.com
 enforce_ssl: vasnte.com
 # your url: http://USERNAME.github.io
 
+facebook:
+  app_id: 486083034895510
+  publisher: 140719389308356
+  admins: 100001571295414
+
 permalink: /:title/
 
 markdown: kramdown
