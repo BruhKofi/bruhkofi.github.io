@@ -7,11 +7,10 @@ comments: true
 author: kofi
 tag:
   - Web Development
-  - Web Engineering
   - Tech
+  - Career
   - Berlin
-  - How To
-description: How to become a Web Developer, Learning to write code, where to start.
+description: It is a never ending learning process being a developer. The challenge for most people like myself was where to start. These are a few pointers that COULD help out.
 
 ---
 Learning to code is one of the most exciting things to decide to do if you start off on the right foot. It can be sometimes be unnerving as there are way to many suggestions out there on the internet when you google "how to become a developer". That was one of my dilemmas; not knowing where to start. This is how I did it. It is not the one path everyone has to follow to get become a software engineer but should have some useful pointers for the absolute beginner and get started writing code in no time.
