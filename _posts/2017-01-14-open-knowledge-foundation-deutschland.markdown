@@ -4,6 +4,7 @@ title: "Open Knowledge Foundation Deutschland"
 date: "2017-01-14 03:00:10 +0100"
 blog: true
 author: kofi
+image: /assets/images/CodeForGermany.JPG
 tag:
   - tech
   - open knowledge foundation
