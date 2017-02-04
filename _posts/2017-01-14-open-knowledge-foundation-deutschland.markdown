@@ -14,7 +14,8 @@ tag:
 comments: true
 description: A visit to the Open Knowledge Foundation Germany - A Non Governmental Organization making great strides in using tech to promote civic participation in governance and the availability of data to the populace.
 redirect_from: /open-knowledge-foundation-deutschland/
-permalink: /blog/tech/:title/
+permalink: /blog/:categories/:title/
+categories: tech
 ---
 
 I recently visited the guys at Open Knowledge Foundation Knowledge Foundation in Berlin and I must say I was pleasantly impressed. They are an NGO that has taken it upon themselves to champion the cause of open knowledge and making data available to the public.

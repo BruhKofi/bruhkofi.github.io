@@ -9,9 +9,10 @@ tag:
 blog: true
 comments: true
 author: kofi
+categories: tech
 description: How to install Git bash-completion
 redirect_from: /how-to-install-git-autocomplete/
-permalink: /blog/tech/:title/
+permalink: /blog/:categories/:title/
 ---
 There are lots of varying opinions about the most 'professional' ways of using github. For pretty obvious reasons the  github desktop application is not the most popular among most developers I have met. I for one like(d) to have the convenience of using it side by side with the terminal for the sole purpose of switching between branches and only having to cmd+tab to quickly check what branch im currently on. If you work with branches with long names like I have to, it can be a real pain having to type in all those long names and having to get it right. For this reason I think every developer and more especially beginners need to install git autocomplete. Not for the mere purpose of autocompleting your commands but also helps you discover lots of git commands. Now lets get started...
 
