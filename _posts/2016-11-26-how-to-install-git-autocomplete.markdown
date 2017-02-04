@@ -9,7 +9,7 @@ tag:
 blog: true
 comments: true
 author: kofi
-categories: tech
+categories: Tech
 description: How to install Git bash-completion
 redirect_from: /how-to-install-git-autocomplete/
 permalink: /blog/:categories/:title/
