@@ -7,7 +7,7 @@
 6 silly lifecycle indigo@1.0.0~preserve: no script for preserve, continuing
 7 info lifecycle indigo@1.0.0~serve: indigo@1.0.0
 8 verbose lifecycle indigo@1.0.0~serve: unsafe-perm in lifecycle true
-9 verbose lifecycle indigo@1.0.0~serve: PATH: /usr/local/lib/node_modules/npm/bin/node-gyp-bin:/Users/victorasante-kyei/Documents/Jekyll/CVNBlog/node_modules/.bin:/Library/Frameworks/Python.framework/Versions/3.5/bin:/Users/victorasante-kyei/.rvm/gems/ruby-2.3.0/bin:/Users/victorasante-kyei/.rvm/gems/ruby-2.3.0@global/bin:/Users/victorasante-kyei/.rvm/rubies/ruby-2.3.0/bin:/Users/victorasante-kyei/.rbenv/shims:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/victorasante-kyei/.rvm/bin
+9 verbose lifecycle indigo@1.0.0~serve: PATH: /usr/local/lib/node_modules/npm/bin/node-gyp-bin:/Users/victorasante-kyei/Documents/Jekyll/CVNBlog/node_modules/.bin:/Library/Frameworks/Python.framework/Versions/3.5/bin:/Users/victorasante-kyei/.rvm/gems/ruby-2.3.0/bin:/Users/victorasante-kyei/.rvm/gems/ruby-2.3.0@global/bin:/Users/victorasante-kyei/.rvm/rubies/ruby-2.3.0/bin:/Users/victorasante-kyei/.rbenv/shims:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Frameworks/Python.framework/Versions/3.5/bin:/Users/victorasante-kyei/.rvm/gems/ruby-2.3.0/bin:/Users/victorasante-kyei/.rvm/gems/ruby-2.3.0@global/bin:/Users/victorasante-kyei/.rvm/rubies/ruby-2.3.0/bin:/Users/victorasante-kyei/.rbenv/shims:/Users/victorasante-kyei/.rvm/bin
 10 verbose lifecycle indigo@1.0.0~serve: CWD: /Users/victorasante-kyei/Documents/Jekyll/CVNBlog
 11 silly lifecycle indigo@1.0.0~serve: Args: [ '-c', 'bundle exec jekyll serve' ]
 12 silly lifecycle indigo@1.0.0~serve: Returned: code: 1  signal: null
