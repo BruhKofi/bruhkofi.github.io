@@ -13,6 +13,7 @@ tag:
   - open source
 comments: true
 description: A visit to the Open Knowledge Foundation Germany - A Non Governmental Organization making great strides in using tech to promote civic participation in governance and the availability of data to the populace.
+redirect_from: /open-knowledge-foundation-deutschland/
 permalink: /blog/tech/:title/
 ---
 

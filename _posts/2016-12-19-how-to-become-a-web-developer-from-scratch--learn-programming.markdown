@@ -11,6 +11,7 @@ tag:
   - Career
   - Berlin
 description: It is a never ending learning process being a developer. The challenge for most people like myself was where to start. These are a few pointers that COULD help out.
+redirect_from: /how-to-become-a-web-developer-from-scratch-learn-programming/
 permalink: /blog/tech/:title/
 
 ---
