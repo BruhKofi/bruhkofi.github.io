@@ -20,10 +20,10 @@ Write Away is a simple Ruby on Rails project I built some time ago. A user is ab
 
 I have stopped working on it for some time now but feel free to fork it. There are some minor issues here and there to be fixed
 
-## Screenshots
-### Front Page
+<h2>Screenshots</h2>
+<h3>Front Page</h3>
 ![WriteAway Project Screenshot 2](/assets/images/Projects/writeaway02.png)
-### Show Page
+<h3>Show Page</h3>
 ![WriteAway Project Screenshot 1](/assets/images/Projects/writeaway01.png)
 
 
