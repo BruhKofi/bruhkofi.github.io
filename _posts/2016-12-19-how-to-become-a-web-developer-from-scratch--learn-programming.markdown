@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Become a Web Developer From Scratch"
+title: "Learning to Code"
 date: "2016-12-19 07:30:44 +0100"
 blog: true
 comments: true
@@ -11,7 +11,7 @@ tag:
   - Career
   - Berlin
 description: It is a never ending learning process being a developer. The challenge for most people like myself was where to start. These are a few pointers that COULD help out.
-permalink: /blog/:categories/:title/
+permalink: /blog/:categories/how-to-become-a-web-developer-from-scratch-learn-programming/
 categories: Tech
 
 ---
