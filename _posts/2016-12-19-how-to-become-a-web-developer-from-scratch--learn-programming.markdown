@@ -38,10 +38,6 @@ I started off learning [Ruby on Rails](http://rubyonrails.org/){:target="_blank"
 Learn Programming Online
 You can learn almost everything these days on the internet. We spend hours on end watching funny videos and hanging out on social media website which is all good but while we are at it, we could as well open one other tab and get the try take some online coding classes  These are a few of the sites that helped me enormously to have a more structured approach to my learning process.
 
-### Plenty of Humility
-Drop that big boy pants; you are going to run into people that know way more than you do. Key is you submit to learning as much from everyone you meet irrespective of how you feel or think of them especially in a company. Keep a warm personality and siphon as much knowledge as you can.
-
-<blockquote> Pride comes before a fall. </blockquote>
 
 ### Get Good Headphones
 Just get good headphones, get good music, tune the noise out and start writing some code
