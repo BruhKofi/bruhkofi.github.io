@@ -3,11 +3,12 @@ name: Victor Asante-Kyei
 bio: Techie, Ghanaian born Global Citizen, Diversity Advocate...
 
 # twitter summary info
-description: Victor's Official Website and Blog | Portfolio, Current Projects, Blogging about Tech, Career and nitty-gritties of Life and Society
+description: Akwaaba! I am Victor Asante-Kyei, Kofi - This is my Official Website, find my Portfolio, Current Projects, Blogging about Tech, Career and nitty-gritties of Life and Society
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/mypics/winter.jpg
+aboutpic: assets/images/profile.jpg
 
 url: https://vasnte.com
 enforce_ssl: vasnte.com
@@ -90,7 +91,7 @@ show-tags: true
 related: true
 
 # show next & prev links in blog post?
-blog-nav-links: false
+blog-nav-links: true
 
 # show author block at the end of a post ?
 show-author: true
