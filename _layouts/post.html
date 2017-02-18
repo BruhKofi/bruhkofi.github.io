@@ -9,7 +9,7 @@ layout: page
 <h1 class="title">{{ page.title }}</h1>
 <div class="post-categories">
     {% for categories in page.categories %}
-        <a class="item" href="{{ site.url }}/tags/#{{ categories | slugify }}">{{ categories }}</a>
+        <a class="item" href="{{ site.url }}/categories/#{{ categories | slugify }}">{{ categories }}</a>
     {% endfor %}
 </div>
 
