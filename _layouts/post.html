@@ -7,11 +7,19 @@ layout: page
 {% endif %}
 
 <h1 class="title">{{ page.title }}</h1>
+<div class="post-categories">
+    {% for categories in page.categories %}
+        <a class="item" href="{{ site.url }}/tags/#{{ categories | slugify }}">{{ categories }}</a>
+    {% endfor %}
+</div>
 
 <span class="date">
     <!-- <time datetime="{{ page.date | date:"%d-%m-%Y" }}">{{ page.date | date: "%A. %B %d, %Y" }}</time> -->
     {% if site.read-time %} Read Time - {% include read-time.html %}{% endif %}
 </span>
+
+
+{{content}}
 
 {% if site.show-tags %}
     <div class="post-tags">
@@ -20,8 +28,6 @@ layout: page
         {% endfor %}
     </div>
 {% endif %}
-
-{{content}}
 
 {% if page.blog and site.blog-nav-links %}
     <div class="blog-navigation">
