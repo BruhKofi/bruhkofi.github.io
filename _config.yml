@@ -7,8 +7,8 @@ description: Akwaaba! I am Victor Asante-Kyei, Kofi - This is my Official Websit
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/MyPics/winter.jpg
-aboutpic: assets/images/profile.jpg
+picture: assets/images/profile.jpg
+aboutpic: assets/images/winterxs.jpg
 
 url: https://vasnte.com
 enforce_ssl: vasnte.com
