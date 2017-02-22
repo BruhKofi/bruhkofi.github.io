@@ -20,6 +20,12 @@ layout: compress
     <meta name=author content="{{ site.name }}">
     <meta name="yandex-verification" content="60fb51dea662d4bb" />
 
+    {% if page.keywords %}
+    <meta name="keywords" content="{{ page.keywords }}" />
+    {% else %}
+    <meta name="keywords" content="Victor Asante-Kyei, blacks in tech, designer, berlin, IT consultant, development, software developer, react, javascript, css, ruby on rails, front-end developer, Kofi Kyei, Ghanaian, african" />
+    {% endif %}
+
     {% seo %}
 
     {% include favicon.html %}
