@@ -18,8 +18,10 @@ categories: Tech
 ---
 
 
-![Angular JS](/assets/images/Blog/angularjs.jpeg) <br><br>
-Directives are if not the most relevant component of Angular JS, a very essential one. It affords the ability to basically extend HTML and makes code more readable. Directives are also reusable hence creating a more cleaner, easy to debug and easier to test codebase. Consider the code below:
+Directives are if not the most relevant component of Angular JS, a very essential one. It affords the ability to basically extend HTML and makes code more readable.
+
+![Angular JS](/assets/images/Blog/googleangularjs.jpg)
+Directives are also reusable hence creating a more cleaner, easy to debug and easier to test codebase. Consider the code below:
 
 {% highlight js %}
 
