@@ -95,4 +95,4 @@ cars.controller('MainController', ['$scope', function($scope) {
 {% endhighlight %}
 
 
-Then data will be called and displayed in the format as defined in cars.html)
+Then data will be called and displayed in the format as defined in cars.html
