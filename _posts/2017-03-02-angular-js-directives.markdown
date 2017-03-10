@@ -25,7 +25,7 @@ Directives are also reusable hence creating a more cleaner, easy to debug and ea
 
 {% highlight js %}
 
-cars.directive('cars', function() {
+app.directive('cars', function() {
     return{
        restrict: 'E',
        scope:{
@@ -70,7 +70,7 @@ Assuming the scopes have been defined in the MainController eg.
 
 
 {% highlight js %}
-cars.controller('MainController', ['$scope', function($scope) {
+app.controller('MainController', ['$scope', function($scope) {
   $scope.bmw = {
     icon: 'img/bmw.jpg',
     make: 'BMW',
