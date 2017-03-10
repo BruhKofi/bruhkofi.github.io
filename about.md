@@ -1,7 +1,7 @@
 ---
 title: About
 layout: page
-description: Born and raised in Ghana, West Africa, currently living and working in Tech in one of the most openminded cities.  Navigating the Tech, experiencing firsthand the best parts aspects and the bottlenext while actively supporting the cause of diversity and inclusion. 
+description: Born and raised in Ghana, West Africa, currently living and working in Tech in one of the most progressive cities.  Navigating the Tech, experiencing firsthand the best parts aspects and the bottlenext while actively supporting the cause of diversity and inclusion. 
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
