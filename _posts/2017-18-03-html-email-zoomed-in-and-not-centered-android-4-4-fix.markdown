@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HTML Email Zoomed In and Not Centered on Android 4.4[Fixed]"
-date: "2017-02-02 03:00:10 +0100"
+date: "2017-04-17 03:00:10 +0100"
 blog: true
 author: kofi
 image: /assets/images/winterxs.jpg
