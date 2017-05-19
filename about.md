@@ -22,6 +22,9 @@ Currently working as a Frontend Engineer at [HelloFresh](https://hellofresh.com)
 	<li>Javascript (React)</li>
 	<li>Ruby on Rails</li>
 </ul>
+
+<a href="/assets/docs/resume_victor_asante-kyei.pdf" download>Download CV(English)</a>
+
 <!--
 <h2>Projects</h2>
 
