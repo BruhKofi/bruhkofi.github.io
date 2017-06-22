@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Directives: Angular JS"
+title: "Angular JS: Directives"
 date: "2017-02-02 03:00:10 +0100"
 blog: true
 author: kofi
@@ -13,7 +13,7 @@ tag:
   - code
 comments: true
 description: A brief overview of directives in Google's Angular JS and its use with the help of a simple example
-permalink: /blog/:categories/:title/
+permalink: /blog/:categories/angular-js-directives/
 categories: Tech
 ---
 
