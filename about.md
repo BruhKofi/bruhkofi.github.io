@@ -5,7 +5,7 @@ description: Born and raised in Ghana, West Africa, currently living and working
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-Hi there, Im' Kofi...Knohblauch enthusiast, Web Developer, and totally fascinated by tech startups!!! I pride myself on my ability to recognize and articulate a distinct voice for every project. I am driven by the in-depth problem solving that coding provides, new challenges, and the opportunity to continously learn from people.
+Hi there, I'm Kofi...Knohblauch enthusiast, Web Developer, and totally fascinated by tech startups!!! I pride myself on my ability to recognize and articulate a distinct voice for every project. I am driven by the in-depth problem solving that coding provides, new challenges, and the opportunity to continously learn from people.
 <div class="breaker"></div>
 ![HelloFresh](https://www.hellofresh.de/images/hellofresh-logo.svg?v=3){: height="90px" width="90px"}
 Currently working as a Frontend Engineer at [HelloFresh](https://hellofresh.com){:target="_blank"}, helping demystify healthy eating. **Join the Revolution!** Use code **NLAJX7** for a **20€ discount** on your first box.
