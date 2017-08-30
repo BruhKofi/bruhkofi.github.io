@@ -29,7 +29,8 @@ email: kofi(at)vasnte.com
 -->
 <!--
 <h2>Projects</h2>
-
+-->
+<!--
 <ul>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
