@@ -72,7 +72,6 @@ Exception in thread "main" java.lang.NumberFormatException: For input string: "s
 
 {% highlight java %}
 
-
 public class GGT {
 
 	public static void main(String s[]) {
@@ -103,7 +102,7 @@ public class GGT {
 			r = m - n;
 			//ist r nicht gleich 0, fortfahren  ab line 15
 			if (r != 0){
-				System.out.println("the ggt ist " + r );
+				System.out.println("ggt(" + m +", " + n + ") = " + r );
 			}
 
 		}
