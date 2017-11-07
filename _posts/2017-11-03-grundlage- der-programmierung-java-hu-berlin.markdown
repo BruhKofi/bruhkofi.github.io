@@ -1,8 +1,6 @@
 ---
 layout: post
-title: "Größten
-Gemeinsamen Teilers Zweier Positiver Ganzer Zahlen in Java"
-date: "2017-11-03 03:00:10 +0100"
+title: "Grundlage der Programmierung: HU Berlin - Java"
 blog: true
 author: kofi
 image: /assets/images/Blog/java-logo.png
@@ -13,13 +11,16 @@ tag:
   - grundlagen der programmierung
   - code
 comments: true
-description: Experimentierung mit eclipse und dem Java-Compiler/-Interpreter und implementierung dabei den Eukidischen Algorithmus zur Bestimmung des groeßten gemeinsamen Teilers zweier positiver ganzer Zahlen in Java.
+description:  Einführung in der Grundlage der Programmierung - HU Berlin am Beispiel von Java Übungen.
 permalink: /blog/:categories/groessten-gemeinsamen-teiler-java/
 categories: Tech
 ---
 
 
 ![Java Logo](/assets/images/Blog/java-logo.png)
+
+
+## Größten Gemeinsamen Teilers Zweier Positiver Ganzer Zahlen in Java
 
 
 Experimentieren Sie mit eclipse und dem Java-Compiler/-Interpreter (wie unten erläutert) und implementieren Sie dabei den Eukidischen Algorithmus <http://de.wikipedia.org/wiki/Euklidischer_Algorithmus> <euklid> zur Bestimmung des größten gemeinsamen Teilers zweier positiver ganzer Zahlen in Java.
