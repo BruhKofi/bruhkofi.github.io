@@ -21,7 +21,7 @@ categories: Tech
     </div>
 
     <div class="toright">
-        <p>Uber: well they need no introduction. After successfully seeing their concept through and becoming a force in Europe and the Americas they decided to enter Africa. As usual Ghanaians jumped on the bandwagon and made Uber one of the most thriving tech companies in Ghana.</p>
+        <p>Uber: well they need no introduction. After successfully seeing their concept through and becoming a force in US, Europe, etc they decided to enter Africa. As usual Ghanaians jumped on the bandwagon and made Uber one of the most thriving tech companies in Ghana.</p>
     </div>
 </div>
 
