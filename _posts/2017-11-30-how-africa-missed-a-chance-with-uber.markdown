@@ -25,6 +25,9 @@ categories: Tech
     </div>
 </div>
 
+<div class="breaker"></div>
+
+
 Fair enough...I don't have anything against their successful launch in our market though the inability of 
 the government to help local startups with similar services and products as being offered by western counterparts is appalling but that is for another day.
 
