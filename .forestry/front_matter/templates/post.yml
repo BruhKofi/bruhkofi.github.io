@@ -19,3 +19,5 @@ fields:
 - type: list
   name: list
   label: List
+pages:
+- _posts/test-forestry.md
