@@ -1,0 +1,21 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Title
+  name: title
+  default: Title
+- type: textarea
+  name: body
+  label: Body
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: tag_list
+  name: tags
+  label: Tags
+- type: list
+  name: list
+  label: List
