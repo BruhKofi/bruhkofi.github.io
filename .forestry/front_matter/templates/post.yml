@@ -19,5 +19,3 @@ fields:
 - type: list
   name: list
   label: List
-pages:
-- _posts/2018-06-02-test-forestry.md
