@@ -1,19 +1,20 @@
 ---
 layout: post
-title: "Grundlage der Programmierung: HU Berlin - Java"
+title: Größten Gemeinsamen Teilers Zweier Positiver Ganzer Zahlen in Java
 blog: true
 author: kofi
-image: /assets/images/Blog/java-logo.png
+image: "/assets/images/Blog/java-logo.png"
 tag:
-  - tech
-  - ggt
-  - java
-  - grundlagen der programmierung
-  - code
+- tech
+- ggt
+- java
+- grundlagen der programmierung
+- code
 comments: true
-description:  Einführung in der Grundlage der Programmierung - HU Berlin am Beispiel von Java Übungen.
-permalink: /blog/:categories/groessten-gemeinsamen-teiler-java/
+description: Größten Gemeinsamen Teilers Zweier Positiver Ganzer Zahlen in Java
+permalink: "/blog/:categories/groessten-gemeinsamen-teiler-java/"
 categories: Tech
+date: 2017-11-03 00:00:00 +0000
 ---
 
 
