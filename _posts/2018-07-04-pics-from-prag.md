@@ -8,7 +8,7 @@ author: ''
 blog: true
 comments: false
 categories: []
-permalink: https://vasnte.com/blog/personal/visiting-prag/
+permalink: blog/personal/visiting-prag/
 ---
 ![](/uploads/IMG_2831.JPG)![](/uploads/IMG_2832.JPG)
 
