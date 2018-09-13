@@ -1,4 +1,5 @@
 ---
+label: post
 hide_body: false
 is_partial: false
 fields:
@@ -19,3 +20,5 @@ fields:
 - type: list
   name: list
   label: List
+pages:
+- _posts/once-upon-a-time.md
