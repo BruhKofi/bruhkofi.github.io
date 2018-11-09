@@ -54,4 +54,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/can-i-be-racist.md
 - _posts/2018-07-04-pics-from-prag.md
