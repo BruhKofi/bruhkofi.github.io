@@ -1,19 +1,21 @@
 ---
 layout: post
-title: "Write Away"
-date: "2017-02-09 09:10:31 +0100"
+title: Write Away (deprecated)
+date: 2017-02-09 09:10:31 +0100
 tag:
-  - tech
-  - github
-  - Web engineering
-  - Ruby on Rails
+- tech
+- github
+- Web engineering
+- Ruby on Rails
 projects: true
 comments: true
 author: kofi
 categories: Tech
-description: A rails project that allows users to write and post articles and get feedback
-permalink: /projects/:categories/:title/
+description: A rails project that allows users to write and post articles and get
+  feedback
+permalink: "/projects/:categories/:title/"
 image: assets/images/Projects/writeaway02.png
+
 ---
 ## Description
 Write Away is a simple Ruby on Rails project I built some time ago. A user is able to create a post, edit, delete (typical scaffold). Other users can read and the suggests another post randomly on the sidebar.
