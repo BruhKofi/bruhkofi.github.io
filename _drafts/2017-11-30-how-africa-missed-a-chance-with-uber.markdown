@@ -1,20 +1,20 @@
 ---
 layout: post
-title: "Uber: The chance Ghana let slip"
+title: 'Uber: The chance Ghana let slip'
 blog: true
 author: kofi
-image: /assets/images/Blog/ubersign.jpg
+image: "/assets/images/Blog/ubersign.jpg"
 tag:
-  - tech
-  - uber
-  - ghana
-  - techinghana
+- tech
+- uber
+- ghana
+- techinghana
 comments: true
-description:  How Ghana could have used gotten the best out of Uber.
-permalink: /blog/:categories/how-ghana-missed-a-chance-with-uber/
+description: How Ghana could have used gotten the best out of Uber.
+permalink: "/blog/:categories/how-ghana-missed-a-chance-with-uber/"
 categories: Tech
----
 
+---
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="/assets/images/Blog/ubersign.jpg" alt="Uber Ghana">
