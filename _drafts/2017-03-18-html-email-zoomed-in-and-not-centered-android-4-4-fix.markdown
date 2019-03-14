@@ -1,23 +1,23 @@
 ---
 layout: post
-title: "HTML Email Zoomed In and Not Centered on Android 4.4[Fixed]"
-date: "2017-03-18 03:00:10 +0100"
+title: HTML Email Zoomed In and Not Centered on Android 4.4[Fixed]
+date: 2017-03-18 03:00:10 +0100
 blog: true
 author: kofi
-image: /assets/images/winterxs.jpg
+image: "/assets/images/winterxs.jpg"
 tag:
-  - tech
-  - haml
-  - email templating
-  - android 4.4
-  - code
+- tech
+- haml
+- email templating
+- android 4.4
+- code
 comments: true
-description: HTML emails not rendering properly on Android 4.4. Fix for emails that are zoomed in and issue with emails not centering with extra padding and margin.
-permalink: /blog/:categories/:title/
+description: HTML emails not rendering properly on Android 4.4. Fix for emails that
+  are zoomed in and issue with emails not centering with extra padding and margin.
+permalink: "/blog/:categories/:title/"
 categories: Tech
+
 ---
-
-
 One if the issues that has been bugging me in recent times has been how Android 4.4 seems not to be rendering email templates correctly.
 
 Primarily build email templates using tables in haml, build with middleman and sync to mailchimp’s mandrill. Before emails go out/ pass QA, they need render correctly on if not all, the popular devices and this is done with 250ok.com’s email testing service.
