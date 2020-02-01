@@ -16,9 +16,9 @@ Hi there, I'm Kofi...Knohblauch enthusiast, Web Developer, and fascinated by tec
 Currently working as a Frontend Engineer at [HelloFresh](https://hellofresh.com){:target="_blank"}, helping demystify healthy eating. **Join the Revolution!** Use code **NLAJX7** for a **20€ discount** on your first box.
 <div class="breaker"></div> -->
 
-<h2>Skills</h2>
+<h2>Interests</h2>
 
-<ul class="Passion">
+<ul class="skill-list">
 
 <li>Web Development</li>
 
